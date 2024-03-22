@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-🔭 I’m currently working on on a transformer model from scratch to paraphrase sentences, then I'll compare the outcomes to a fine tuned BERT model using Google Colab!
+🔭 I’m currently working on on a transformer model from scratch to paraphrase sentences, then I'll compare the outcomes to a fine-tuned BERT model using Google Colab!
 - I'm also working on getting a pix2pix model working since I think it'd be fun to have cool ideas to conditionally generate on an image
+
+💬 About my pinned repos:
+- Data professional analysis was done collaboratively to analyze StackOverflow data to see how data professional salaries change over time.
+- UFC Visualization is a Bokeh web app that allows a user to pick parameters (fighter, KOs, wins, losses) and create their own story for a visualization.
+- Paper replications are my proudest repository since I like machine learning, it's like magic to me. I pick some papers that sound cool to me, then I recreate the specified architectures and train on their data sets or another one!
 
 <!--
 **lmg1404/lmg1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
