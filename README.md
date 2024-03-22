@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on on a transformer model from scratch to paraphrase sentences, then I'll compare the outcomes to a fine tuned BERT model using Google Colab!
+- I'm also working on getting a pix2pix model working since I think it'd be fun to have cool ideas to conditionally generate on an image
+
 <!--
 **lmg1404/lmg1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
